@@ -39,3 +39,7 @@ For compiling codes without right menu entry. You can use cmd. This will simply 
 
 Python will run directly 'cause it's an interpreter.
 >py YOURFILE.py
+
+For enabling/disabling ethernet.
+> ethernet 0 //disables ethernet
+> ethernet 1 //enables ethernet
